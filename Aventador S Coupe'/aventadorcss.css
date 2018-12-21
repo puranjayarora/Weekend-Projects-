@@ -1,0 +1,111 @@
+@charset "utf-8";
+#a{
+	position:absolute;
+    top:8px;
+    left:115px;
+}
+#b{
+	position:absolute;
+    top:0px;
+    left:500px;
+}
+#c{
+	position:absolute;
+    top:15px;
+    left:15px;
+}
+#d{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+#e{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+#f{
+    position: absolute;
+    top: 325px;
+    left: 0px;
+}
+#g{
+    position: absolute;
+    top: 180px;
+    left: 818px;
+}
+#h{
+    position: absolute;
+    top: 685px;
+    left: 100px;
+}
+#i{
+    position: absolute;
+    top: 655px;
+    left: 648px;
+}
+#j{
+    position: absolute;
+    top: 1080px;
+    left: 720px;
+}
+#k{
+    position: absolute;
+    top: 1470px;
+    left: 650px;
+}
+#l{
+    position: absolute;
+    top: 1015px;
+    left: -90px;
+}
+#m{
+    position: absolute;
+    top: 1415px;
+    left: 0px;
+}
+#n{
+    position: absolute;
+    top: 1630px;
+    left: 100px;
+}
+#o{
+    position: absolute;
+    top: 1750px;
+    left: 450px;
+}
+#p{
+    position: absolute;
+    top: 2200px;
+    left: 720px;
+}
+#q{
+    position: absolute;
+    top: 2005px;
+    left: -22px;
+}
+#r{
+    position: absolute;
+    top: 2500px;
+    left: 20px;
+}
+#s{
+    position: absolute;
+    top: 2631px;
+    left: 500px;
+}
+#t{
+    position: absolute;
+    top: 3220px;
+    left: 590px;
+}
+#u{
+    position: absolute;
+    top: 3300px;
+    left: 220px;
+}
+#v{
+    position: absolute;
+    top: 3570px;
+    left: 0px;
+}
