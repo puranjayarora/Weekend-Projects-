@@ -9,7 +9,7 @@ The front end is built entirely uisng HTML and CSS. The webpage contains various
   3. Design 
   4. Interior 
   5. Ad Personam
-  
+
 2. The Great Indian Rail
 HTML and CSS have been used to build the front end. The website contains various functionalities like:
   1. Tracking trains
